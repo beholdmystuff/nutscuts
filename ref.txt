@@ -1,0 +1,12 @@
+https://github.com/Sainan/gta-v-joaat-hash-db/blob/senpai/maid.cpp
+https://github.com/Sainan/GTA-V-Decompiled-Scripts
+https://www.unknowncheats.me/forum/grand-theft-auto-v/482204-modify-stat.html
+https://www.unknowncheats.me/forum/3221089-post3.html
+https://www.unknowncheats.me/forum/general-programming-and-reversing/133228-implement-pattern-scanning-obtain-offsets-dynamically.html
+https://www.unknowncheats.me/forum/c-and-c/125497-findpattern-benchmark.html
+https://www.unknowncheats.me/forum/grand-theft-auto-v/430872-help-interpret-codes.html
+https://stash.sola.love/Sola/TestV/src/branch/master/include
+https://www.unknowncheats.me/forum/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets-644.html
+https://github.com/narc0l3ptic/Parent-Base
+https://github.com/mikke89/RmlUi
+https://www.joachim-bauch.de/tutorials/loading-a-dll-from-memory/
